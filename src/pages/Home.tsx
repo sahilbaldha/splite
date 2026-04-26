@@ -1,4 +1,4 @@
-
+// git remote set-url origin https://sahil-exelance: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@github.com/Shubham-Exelance/splitpro.git
   // const handleSubmit = async () => {
   //   if (!isValid || totalAmount <= 0) return;
 
